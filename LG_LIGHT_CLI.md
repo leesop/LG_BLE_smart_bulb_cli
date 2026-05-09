@@ -248,4 +248,4 @@ python3 lg_light_cli.py raw "02 01 08 00 00 64 00 00 00 01 00 00 00 00 00 00 00 
 
 ## License
 
-This project is distributed under the GNU General Public License v3.0 or later (`GPL-3.0-or-later`). See `LICENSE`.
+This project is distributed under the `Unlicense`, which is close to a public-domain/freeware release. You may copy, modify, distribute, and use it commercially. See `LICENSE`.

@@ -164,4 +164,4 @@ This is an experimental recovery tool for discontinued or legacy hardware. Firmw
 
 ## License
 
-This project is distributed under the GNU General Public License v3.0 or later (`GPL-3.0-or-later`). See `LICENSE`.
+This project is distributed under the `Unlicense`, which is close to a public-domain/freeware release. You may copy, modify, distribute, and use it commercially. See `LICENSE`.

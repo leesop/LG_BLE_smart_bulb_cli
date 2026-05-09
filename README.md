@@ -160,7 +160,7 @@ APK, DEX 추출물, 로컬 설치 패키지, 실행 상태 파일은 `.gitignore
 
 ## 라이선스
 
-GNU General Public License v3.0 or later (`GPL-3.0-or-later`)로 배포합니다. 자세한 내용은 `LICENSE` 파일을 참고하세요.
+이 프로젝트는 완전한 프리웨어 성격에 가까운 `Unlicense`로 배포합니다. 복사, 수정, 배포, 상업적 사용을 포함해 자유롭게 사용할 수 있습니다. 자세한 내용은 `LICENSE` 파일을 참고하세요.
 
 ## 참고
 

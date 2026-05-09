@@ -4,6 +4,8 @@
 
 이 프로젝트는 LG 공식 Android 앱 `LG 스마트 조명` APK(`com.lge.lightingble`, `1.1.5`)를 분석해 BLE 서비스 UUID, characteristic UUID, 19바이트 제어 패킷 구조를 복원한 결과를 바탕으로 합니다.
 
+English documentation is available in `README.en.md`.
+
 ## 지원 대상
 
 확인 대상:
